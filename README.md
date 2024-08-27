@@ -9,3 +9,14 @@ Escreva aqui os conteúdos aprendidos.
 
 ## Atividades desenvolvidas
 Escreva aqui as atividades desenvolvidas em sala e para casa. Você pode detelhar a atividade e usar links das atividades do codepen e vídeos desenvolvidos em sala. 
+
+
+## Nesse semestre aprendemos sobre os seguintes temas;
+
+- Em primeiro passo desenvolvemos e aprendemos a ultilizar o code pen e as linguagens do javascript, como por exemplo;
+
+## var
+
+## let
+
+## const
